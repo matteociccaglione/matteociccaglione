@@ -1,10 +1,7 @@
-![](https://raw.githubusercontent.com/matteociccaglione/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/matteociccaglione/matteociccaglione/master/generated/languages.svg)
 
-![](https://raw.githubusercontent.com/matteociccaglione/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/matteociccaglione/matteociccaglione/master/generated/overview.svg)
 
-![](https://raw.githubusercontent.com/matteociccaglione/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/matteociccaglione/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 
